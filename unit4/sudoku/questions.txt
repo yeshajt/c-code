@@ -1,0 +1,16 @@
+1. If strcmp returns 0, then both the strings are the same.
+2. This is how I would rewrite the code in terms of if/else statements.
+    int max;
+    if (strcmp((g.level, "debug") == 0)
+    {
+        max = 9;
+    }
+    else
+    {
+        max = 1024;
+    }
+3. sscanf reads the command line arguments for specified inputs. It will return 2 instead of 1 if it read and converted both the digit and the character.
+4. The coordinates of the grid are g.x and g.y
+5. The function is show_cursor.
+6. At the switch (line 159)
+7. There is 1 blank in debug #1, 2 blanks in debug #2, and so on, until there are 9 blanks in debug #9.
